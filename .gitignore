@@ -1,0 +1,6 @@
+*.class
+out/
+.idea/
+*.iml
+*.ser
+*.txt.out

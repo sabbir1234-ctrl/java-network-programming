@@ -1,0 +1,11 @@
+Assignment 4 - Java
+
+Task 1: Serializable RectangularPrism (Polygon -> Rectangle -> RectangularPrism).
+        Task1 writes 9 prisms to prisms9.ser, then reads the file and prints them on screen.
+Task 2: Task2 sends GET and POST requests to the free REST API JSONPlaceholder
+        (https://jsonplaceholder.typicode.com/posts) and writes status codes and bodies to RestResponse.txt.
+        Requires Java 11+ and internet access.
+
+Compile:  javac Polygon.java Rectangle.java RectangularPrism.java Task1.java Task2.java
+Run:      java Task1
+          java Task2

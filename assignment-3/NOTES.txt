@@ -1,0 +1,11 @@
+Assignment 3 - Java
+Task 1 uses the ORIGINAL Polygon.java, Rectangle.java and RectangularPrism.java from Assignment 1.
+The original print() output is redirected to RectangularPrisms7.txt, then read and displayed.
+Task 2 downloads raw bytes from a URL into URLRawData.txt (default: https://example.com/).
+
+Compile: javac Polygon.java Rectangle.java RectangularPrism.java Task1.java Task2.java
+Run Task 1: java Task1
+Run Task 2: java Task2
+Or use a specified URL: java Task2 https://example.com/
+
+Requires a JDK; Task 2 needs internet access. Run commands inside this folder.
