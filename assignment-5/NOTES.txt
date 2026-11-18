@@ -1,0 +1,9 @@
+Assignment 5 - Java
+Task 1 is a TCP server (calculator). Task 2 is the TCP client for it.
+
+Compile: javac Task1.java Task2.java
+Run the server first:  java Task1
+Then run the client in another terminal:  java Task2
+Or connect to another machine:  java Task2 <server-ip>
+
+Port: 5000. Requires a JDK (Java 14+). Run commands inside this folder.
